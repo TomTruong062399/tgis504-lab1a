@@ -17,6 +17,6 @@ b. If the Geolocation API returned a heading reading of 135, the direction the d
     <li>Apple Safari</li>
   </ul>
 
-The main difference I saw from using the application on Chrome and Edge is that the geolocation accuracy seems to be more precise on Chrome <i>(within 98 feet)</i> compared to Edge <i>(within 699 feet)<i>.<p>
+The main difference I saw from using the application on Chrome and Edge is that the geolocation accuracy seems to be more precise on Chrome <i>(within 98 feet)</i> compared to Edge <i>(within 699 feet)</i>.<p>
 <p>A difference in user experience on using the application on mobile Chrome and Safari is that I had to go through <b>two pop-up screens</b> on Chrome compared to <b>three pop-up screens</b> on Safari allow geolocation of my device.<p>
 <p>The only I ran into while testing was on mobile Safari because all the icons for the icons were in dark mode since it follows the native application theme that is applied to almost all stock apps on my iPhone.<p>
